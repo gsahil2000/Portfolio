@@ -24,41 +24,107 @@
         
         <section class="subSection">
             <h1>Round 1 | Expulsion</h1>
-            <p>
-                This was my first game.
-            </p>
+
+            <section class="subSectionLeft">
+                <p>
+                    My first game at FIEA, Expulsion is endless survival game, with a motive to get highest score possible.
+                    The character developed a technology to finally release demons inside him, but they recoshet back and kill him.
+                    Player has to dodge and help the character to release as many demons as possible.
+
+
+                    <br /><br />
+                    <ul>Technology Used:
+                        <li>Flash</li>
+                        <li>FlashDevelop</li>
+                        <li>ActionScript</li>
+                    </ul>
+                </p>
+            </section>
+
             <iframe width="560" height="315" src="http://www.youtube.com/embed/OZFLvkHYkqQ?rel=0" frameborder="0" allowfullscreen></iframe>
         </section>
 
         <section class="subSection">
             <h1>Round 2 | Disturbance</h1>
-            <p>
-                iOS.
-            </p>
+            
+            <section class="subSectionLeft">
+                <p>
+                    Disturbance was part of Story round. It is a side scroller game, where the character was mentally ill.
+                    She thought everyone was trying to kill and you had the escape the building using stealth.
+
+                    <br />
+                    <ul>Technology Used:
+                        <li>XCode</li>
+                        <li>Objective-C</li>
+                    </ul>
+                </p>
+            </section>
+
             <img src="../Images/GameImages/Disturbance_Logo.png" alt="Disturbance" />
         </section>
 
         <section class="subSection">
             <h1>Round 3 | Ballin'</h1>
-            <p>
-                Unity3D.
-            </p>
+
+            <section class="subSectionLeft">
+                <p>
+                    Ballin' was made as a futuristic sport where human was controlling something like a hamster ball from inside. 
+                    It is an arcade style 1v1 game where players with maximum points wins at the end of round. 
+                    Players can collect points either by pushing other player off the peg or by collecting the coins.
+
+                    <br /><br />
+                     <ul>Technology Used:
+                        <li>Unity3D</li>
+                        <li>C#</li>
+                    </ul>
+                </p>
+            </section>
+
             <img src="../Images/GameImages/ballin'.png" alt="Ballin'" />
         </section>
 
         <section class="subSection">
             <h1>Round 4 | Typo Master</h1>
-            <p>
-                Android.
-            </p>
+
+            <section class="subSectionLeft">
+                <p>
+                    All of us are familiar with PC typing test so we wanted to take this mobile and see what happens. 
+                    Typo Master, is Android based asychronous typing game. Users were given random paragraphs to type as quickly as possible with max possible accuracy.
+                    Users could challenge their friends to see who could type faster and use power up on each other to distract them. 
+                    Integration of MySQL and PHP was big part of the game to store player profile, friend's list and overall scores. 
+
+                    <br /><br />
+                     <ul>Technology Used:
+                         <li>Eclipse</li>
+                         <li>Java</li>
+                         <li>Android SDK</li>
+                         <li>MySQL</li>
+                         <li>PHP</li>
+                    </ul>
+                </p>
+            </section>
+
             <img src="../Images/GameImages/typomaster.png" alt="Typo Master" />
         </section>
 
         <section class="subSection">
             <h1>Round 5 | Angry Bird</h1>
-            <p>
-                Unity3D - Polish.
-            </p>
+
+            <section class="subSectionLeft">
+                <p>
+                    The last prototype round is meant to give students the experience of working on a somebody else's old project. 
+                    We picked AngryBird, a game about a bird who has a long story. To better understand please watch the video. 
+                    Personally, it was a good experience to get in that situation of picking up other's code and see what happens. 
+                    It exposed to somewhat real world situation, where most of the applications are not build from scratch every time.
+
+                    <br /><br />
+                     <ul>Technology Used:
+                        <li>Unity3D</li>
+                        <li>C#</li>
+                    </ul>
+                </p>
+            </section>
+
             <iframe width="420" height="315" src="http://www.youtube.com/embed/q3LdQ2HrSo4?rel=0" frameborder="0" allowfullscreen></iframe>
         </section>
 

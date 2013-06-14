@@ -24,12 +24,15 @@
         
         <article>
             <p>
-                Texts...
+                I am currently working on Physics Engine, as my Personal Programming Project at FIEA. I chose Phsyics to improve my skills 
+                and understanding of 3D math.
             </p>
             <p>
                 
-                <ul>Tasks:
-                    <li> 1</li>
+                <ul>Features:
+                    <li> Collision Dectector.</li>
+                    <li> Constraint Generator - ropes and rod behaviour.</li>
+                    <li> Integrator - to update the physics for whole world.</li>
                 </ul>
             </p>
         </article>

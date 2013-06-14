@@ -220,7 +220,7 @@ ul#submenu {
 
         ul#submenu li a {
             background: none;
-            color: #fff;
+            color: #000;
             text-decoration: none;
         }
 
@@ -430,10 +430,14 @@ aside {
         color: darkblue;
     }
 
-    .project-content section.subSection p
+    .project-content section.subSection section.subSectionLeft
     {
         float: left;
         width: 47%;
+    }
+
+    .project-content section.subSection section.subSectionLeft p
+    {
     }
 
     .project-content section.subSection iframe

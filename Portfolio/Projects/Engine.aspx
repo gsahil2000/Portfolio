@@ -24,14 +24,16 @@
         
         <article>
             <p>
-                Texts...
+                As part of Programming track at FIEA, students had to make this C++ Engine. This gave us an exposure to different aspects of 
+                C++.
             </p>
-            <p>
-                
-                <ul>Tasks:
-                    <li> 1</li>
-                </ul>
-            </p>
+
+            <ul>Features:
+                <li> Data Driven.</li>
+                <li> Event Based.</li>
+                <li> Cross Platform.</li>
+                <li> Allowed users to script in XML.</li>
+            </ul>
         </article>
 
     </div>
