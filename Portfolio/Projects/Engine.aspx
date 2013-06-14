@@ -1,5 +1,4 @@
-﻿<%@ Page Title="Warp Derby" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Projects_WarpDerby.aspx.cs" Inherits="Portfolio.Projects.Projects_WarpDerby" %>
-
+﻿<%@ Page Title="C++ Engine" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Engine.aspx.cs" Inherits="Portfolio.Projects.Engine" %>
 <asp:Content ID="Content2" ContentPlaceHolderID="FeaturedContent" runat="server">
     <section class="featured">
         <div class="content-wrapper">
@@ -19,28 +18,21 @@
     </section>
 </asp:Content>
 
-<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+<asp:Content ID="Content3" ContentPlaceHolderID="MainContent" runat="server">
     <div class="project-content">
         <h1><%: Title %></h1>
         
         <article>
             <p>
-                Warp Derby is a mutiplayer vehicular combat game build using Unreal Development Kit(UDK). This game is one of the
-                Capstone games currently under development at FIEA. I am one of four programmers among 12 multidisciplinary developers.
-                It provides me a great oppurtunity to work with artists and producers to have better understanding of game development.
+                Texts...
             </p>
             <p>
                 
                 <ul>Tasks:
-                    <li> Familiarized with server-client architecture.</li>
-                    <li> Implemented Game Features.</li>
-                    <li> Used Scaleform to make the hud.</li>
-                    <li> External dll to use</li>
-                    <li> Worked in a large codebase.</li>
+                    <li> 1</li>
                 </ul>
             </p>
         </article>
 
-        <iframe width="560" height="315" src="http://www.youtube.com/embed/JXzlDE7u0Nw?rel=0" frameborder="0" allowfullscreen></iframe>
     </div>
 </asp:Content>

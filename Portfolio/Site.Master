@@ -39,13 +39,13 @@
     <header>
         <div class="content-wrapper">
             <p class="site-title">
-                <a runat="server" href="~/"> {<br />&nbsp&nbsp&nbsp&nbsp Sahil Gulati;<br />&nbsp&nbsp&nbsp&nbsp programmer;<br />}</a>
+                <a runat="server" href="~/"> Sahil Gulati</a>
             </p>
             <div class="float-right">
                 <nav>
                     <ul id="menu">
                         <li><a runat="server" href="~/">Home</a></li>
-                        <li><a runat="server" href="~/About">Projects</a></li>
+                        <li><a runat="server" href="~/Projects/Projects_WarpDerby.aspx">Projects</a></li>
                         <li><a runat="server" href="~/Contact">Contact</a></li>
                     </ul>
                 </nav>

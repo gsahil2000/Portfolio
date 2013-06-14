@@ -136,7 +136,7 @@ footer {
 
 .site-title a, .site-title a:hover, .site-title a:active {
     background: none;
-    color: #c8c8c8;
+    color: #a2a2a2;
     outline: none;
     text-decoration: none;
 }
@@ -207,7 +207,7 @@ ul#menu {
 ul#submenu {
     font-size: 1.1em;
     font-weight: 600;
-    margin: 0 0 5px;
+    margin: 0 0 0px;
     padding: 0;
     text-align: right;
 }
@@ -396,7 +396,7 @@ aside {
 
     .project-content article
     {
-        width: 45%;
+        width: 47%;
         float: left;
         font-size: 1.2em;
         margin-bottom:10px;
@@ -411,6 +411,45 @@ aside {
         margin-left: auto;
         margin-right: auto;
         margin-top:5%;
+    }
+
+    /* subSections */
+.project-content section.subSection
+{
+    width: inherit;
+    margin-left: 0.5%;
+    margin-top: 5%;
+    border-bottom: solid;
+    display: inline-block;
+}
+
+    .project-content section.subSection h1
+    {
+        font-weight: normal;
+        font-size: 1.5em;
+        color: darkblue;
+    }
+
+    .project-content section.subSection p
+    {
+        float: left;
+        width: 47%;
+    }
+
+    .project-content section.subSection iframe
+    {
+        margin-top: 1%;
+        width: inherit;
+        float: right;
+        width: 50%;
+    }
+
+    .project-content section.subSection img
+    {
+        margin-top: 1%;
+        width: inherit;
+        float: right;
+        max-width: 50%;
     }
 
 .label {

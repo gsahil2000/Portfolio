@@ -1,5 +1,4 @@
-﻿<%@ Page Title="Warp Derby" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Projects_WarpDerby.aspx.cs" Inherits="Portfolio.Projects.Projects_WarpDerby" %>
-
+﻿<%@ Page Title="Ballance - Xbox" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Ballance.aspx.cs" Inherits="Portfolio.Projects.Ballance" %>
 <asp:Content ID="Content2" ContentPlaceHolderID="FeaturedContent" runat="server">
     <section class="featured">
         <div class="content-wrapper">
@@ -19,28 +18,28 @@
     </section>
 </asp:Content>
 
-<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+<asp:Content ID="Content3" ContentPlaceHolderID="MainContent" runat="server">
     <div class="project-content">
         <h1><%: Title %></h1>
         
         <article>
             <p>
-                Warp Derby is a mutiplayer vehicular combat game build using Unreal Development Kit(UDK). This game is one of the
-                Capstone games currently under development at FIEA. I am one of four programmers among 12 multidisciplinary developers.
-                It provides me a great oppurtunity to work with artists and producers to have better understanding of game development.
+                Ballance is 3D puzzle game, based on orginal game 'Balance' by Atari. It was a programming assignment as part of FIEA curriculum.
+                Tao Xin and I teamed up to make this game in two weeks for PC using OpenGL. Then, we had to port it to Xbox using XDK and DirectX 8.
             </p>
             <p>
                 
                 <ul>Tasks:
-                    <li> Familiarized with server-client architecture.</li>
-                    <li> Implemented Game Features.</li>
-                    <li> Used Scaleform to make the hud.</li>
-                    <li> External dll to use</li>
-                    <li> Worked in a large codebase.</li>
+                    <li> Setup rendering using OpenGL for PC.</li>
+                    <li> Integrated FMOD to add sounds parameters, to tweak dynamically.</li>
+                    <li> Setup Input Manager both on PC/XBOX.</li>
+                    <li> Implemented User Interface for Xbox.</li>
+                    <li> Setup system to save highscores.</li>
+                    <li> Splash Screen Manager to show load screens.</li>
                 </ul>
             </p>
         </article>
 
-        <iframe width="560" height="315" src="http://www.youtube.com/embed/JXzlDE7u0Nw?rel=0" frameborder="0" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="http://www.youtube.com/embed/Ogs9srZnQ6k?rel=0" frameborder="0" allowfullscreen></iframe>
     </div>
 </asp:Content>

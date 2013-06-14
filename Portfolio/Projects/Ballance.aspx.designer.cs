@@ -10,7 +10,7 @@
 namespace Portfolio.Projects {
     
     
-    public partial class Projects_WarpDerby {
+    public partial class Ballance {
         
         /// <summary>
         /// A1 control.
