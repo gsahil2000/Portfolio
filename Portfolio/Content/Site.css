@@ -453,6 +453,7 @@ aside {
         margin-top: 1%;
         width: inherit;
         float: right;
+        width: 50%;
         max-width: 50%;
     }
 

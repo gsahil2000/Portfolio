@@ -189,6 +189,9 @@
     <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
     <Content Include="Images\accent.png" />
     <Content Include="Images\bullet.png" />
+    <Content Include="Images\GameImages\ballin%27.png" />
+    <Content Include="Images\GameImages\Disturbance_Logo.png" />
+    <Content Include="Images\GameImages\typomaster.png" />
     <Content Include="Images\GameImages\WD_Logo.jpg" />
     <Content Include="Images\heroAccent.png" />
     <Content Include="Images\orderedList0.png" />
@@ -404,7 +407,7 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerPort>64903</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>http://localhost:52336/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
